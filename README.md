@@ -1,5 +1,5 @@
 ### 参与的
-- 给golang 操作excel 类库提供关于datavalidation 校验相关功能
+- 给golang 操作excel 类库提供关于datavalidation 相关功能
 - 给telegraf 修过bug
 
 
